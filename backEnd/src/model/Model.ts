@@ -5,6 +5,9 @@ export enum WorkingPossition {
     EXPERT = 'expert',
     MANAGER = 'manager'
 }
+/*
+COMMENT
+*/
 
 export interface Employee {
     name: string;
